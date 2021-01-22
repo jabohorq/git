@@ -13,12 +13,14 @@
 `> git config --list`
 - CHECK USER NAME <br/>
 `> git config user.name`
-- CHANGE USENAME
+- CHANGE USENAME <br/>
 `> git config --global user.name "Jaime Bohorquez-Ballen"`
 - CHECK USER EMAIL <br/>
 `> git config user.email`
 - CHANGE USER EMAIL <br/>
 `git config --global user.email [your email address here]`
+- GITHUB CONFIG FILE <br/>
+`~/.gitconfig`
 - CLONE EXISTING REPOSITORY ON GITHUB:<br/>
 `> git clone URL`
 - CREATE A LOCAL REPO <br/>
